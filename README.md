@@ -3,12 +3,12 @@
 
 INTEGRANTES:| PORCENTAJE DE TRABAJO
 ---|---
-Juan Carlos Escobedo Salazar|100%
-Esquivel Quinquin Imanol|100%
+Juan |100%
+Esquivel |100%
 Huamani Neyra Luis Antonio|100%
-Ramos Marcelo Katherine Gume|100%
-Montero Echevarria Rubby Sahory|100%
-Obregon Moran Max Smiht|100%
+Ramos |100%
+Montero |100%
+Obregon |100%
 
 ## INTRODUCCIÓN:
 En el siguiente informe podra encontrar toda la informacion recopilada por el equipo de trabajo para poder desarrollar el proyecto actual, el cual lleva por nombre **Página WEB para Clínica Veterinaria Icaza**.
