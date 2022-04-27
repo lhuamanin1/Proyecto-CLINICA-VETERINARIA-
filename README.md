@@ -3,7 +3,7 @@
 
 INTEGRANTES:| PORCENTAJE DE TRABAJO
 ---|---
-Juan |100%
+Escobedo Salazar, Juan Carlos|100%
 Esquivel |100%
 Huamani Neyra Luis Antonio|100%
 Ramos |100%
