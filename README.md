@@ -1,4 +1,4 @@
-![iimage](https://github.com/lhuamanin1/Proyecto-CLINICA-VETERINARIA-/blob/main/UCV.png)
+![image](https://github.com/lhuamanin1/Proyecto-CLINICA-VETERINARIA-/blob/main/UCV.png)
 # PÁGINA WEB PARA LA CLINICA VETERINARIA ICAZA
 
 INTEGRANTES:| PORCENTAJE DE TRABAJO
