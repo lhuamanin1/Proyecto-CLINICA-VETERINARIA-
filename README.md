@@ -133,7 +133,7 @@ CU9|SOLICITUD DE RESERVA DE CITA|Recepcionista visualiza las solicitudes de cita
 
 #### 3.1.5 MODELO DE CASOS DE USO
 
-![DIAGRAMA GENERAL DE CASOS DE USO](DGCU.png)
+![IMAGE](https://github.com/lhuamanin1/Proyecto-CLINICA-VETERINARIA-/blob/main/DGCU.png)
 
 #### 3.1.6 PLANTILLAS DE CASOS DE USO
 Código: CU1	|Caso de Uso:  LOGIN
