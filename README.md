@@ -5,7 +5,7 @@ INTEGRANTES:| PORCENTAJE DE TRABAJO
 ---|---
 Escobedo Salazar, Juan Carlos|100%
 Esquivel |100%
-Huamani Neyra Luis Antonio|100%
+Huamani Neyra, Luis Antonio|100%
 Ramos |100%
 Montero |100%
 Obregon |100%
