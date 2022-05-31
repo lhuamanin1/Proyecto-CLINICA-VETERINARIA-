@@ -51,12 +51,13 @@ Escogimos aplicar nuestro proyecto en el área de recepción, espacialmente en e
 #### 1.6.2 Recursos Humanos 
 
 Nuestro equipo está conformado por:
-* Representante del Grupo:  
-* Investigador Responsable:  
-* Programador: 
-* Encuestadores:  
-* Tutor encargado del proyecto:  
-* DIRECTOR DE LA INSTITUCIÓN:
+* Representante del Grupo: Escobedo Salazar,Juan Carlos
+* Investigador Responsable: Esquivel Quinquin, Imanol
+* Programador: Obregón Moran, Max Smiht
+               Huamani Neyra, Luis Antonio
+* Encuestadores: Ramos Marcelo, Katherine Gume
+* Desarrollador de Base de Datos: Montero Echevarria, Rubby Sahory
+* DIRECTOR DE LA INSTITUCIÓN: Icaza Escobedo, Arjuna Alejandro
 
 #### 1.6.3 Software
 Los programas o software a usar en este proyecto son los siguientes:  
