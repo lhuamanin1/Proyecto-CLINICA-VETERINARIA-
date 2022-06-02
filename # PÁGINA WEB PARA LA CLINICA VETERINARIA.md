@@ -224,60 +224,57 @@ POST CONDICIONES:|	Recepcionista visualiza los detalles de la solicitud de Cita.
 
 3.2.1. Diagramas de Colaboración de Reservar Cita 
 
+![image](https://user-images.githubusercontent.com/99044143/171558422-b674ed68-2ab3-4c70-adaa-1f0d263bf2bf.png)
 
-
+![image](https://user-images.githubusercontent.com/99044143/171559075-b1289da3-d670-4774-b2c8-97341cd82a57.png)
 
 
 3.2.2. Diagramas de Colaboración Usuario Login 
 
+![image](https://user-images.githubusercontent.com/99044143/171558468-19f6a0f1-0f43-4cd2-a24e-3de17b0b9253.png)
 
 
 3.2.3. Diagramas de Colaboración Registrar Mascota
 
+![image](https://user-images.githubusercontent.com/99044143/171558548-3bd43daf-2002-4c30-b8ec-97a30c031e63.png)
 
 
 3.2.4. Diagramas de Colaboración de Costo de Servicio
 
+![image](https://user-images.githubusercontent.com/99044143/171558599-ba8da8ef-2fea-4d56-9f84-de902e2bd93a.png)
 
 
 
 3.2.4. Diagramas de Colaboración Contac Veterinaria 
 
+![image](https://user-images.githubusercontent.com/99044143/171558626-bcd1ea68-c881-4e72-bcab-bf84e759e7e2.png)
 
 
 3.2.5. Diagrama de Colaboración Registro Tipo de Baño Mascota  
 
-
-
-
-
+![image](https://user-images.githubusercontent.com/99044143/171558678-38a16b46-2a49-486b-8748-1ff6085c520a.png)
 
 
 
 3.2.3. Lista de Clases de Interfaz
 
 
- 
+ ![image](https://user-images.githubusercontent.com/99044143/171558759-db95cf92-c1a1-4dab-95ba-af07166bce48.png)
+
 
 3.2.1.2. Lista de Clases de Control 
 
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/99044143/171558819-475bb39d-0fe9-4a5f-9318-5c2797432c6b.png)
 
 
 3.2.4. Lista de Clases de Entidades 
 
+![image](https://user-images.githubusercontent.com/99044143/171558874-66624684-0b56-48be-acc3-c2c7e21e0bf6.png)
 
 
 3.2.5. Modelo lógico de clases
 
+![image](https://user-images.githubusercontent.com/99044143/171558995-71866a88-d58d-4136-acf3-a0d0827c97af.png)
 
 
 
@@ -286,6 +283,7 @@ POST CONDICIONES:|	Recepcionista visualiza los detalles de la solicitud de Cita.
 3.3.1. Modelo físico
 3.3.1.1. Creación de Esquemas y tablas
 
+![image](https://user-images.githubusercontent.com/99044143/171558967-8637cb37-39c7-4259-80d4-98b5479792ee.png)
 
 
 
