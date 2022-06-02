@@ -1,14 +1,13 @@
-![image](https://github.com/lhuamanin1/Proyecto-CLINICA-VETERINARIA-/blob/main/UCV.png)
+![LOGO](LogotipoUCV_VersiónLarga.png)
 # PÁGINA WEB PARA LA CLINICA VETERINARIA ICAZA
 
 INTEGRANTES:| PORCENTAJE DE TRABAJO
 ---|---
-Escobedo Salazar, Juan Carlos|100%
-Esquivel Quinquin, Imanol |100%
-Huamani Neyra, Luis Antonio|100%
-Ramos Marcelo, Katherine Gume |100%
-Montero Echevarria, Rubby Sahory |100%
-Obregón Moran, Max Smiht |100%
+Esquivel Quinquin Imanol|20%
+Huamani Neyra Luis Antonio|20%
+Ramos Marcelo Katherine Gume|20%
+Montero Echevarria Rubby Sahory|20%
+Obregon Moran Max Smiht|20%
 
 ## INTRODUCCIÓN:
 En el siguiente informe podra encontrar toda la informacion recopilada por el equipo de trabajo para poder desarrollar el proyecto actual, el cual lleva por nombre **Página WEB para Clínica Veterinaria Icaza**.
@@ -51,13 +50,12 @@ Escogimos aplicar nuestro proyecto en el área de recepción, espacialmente en e
 #### 1.6.2 Recursos Humanos 
 
 Nuestro equipo está conformado por:
-* Representante del Grupo: Escobedo Salazar,Juan Carlos
-* Investigador Responsable: Esquivel Quinquin, Imanol
-* Programador: Obregón Moran, Max Smiht
-               Huamani Neyra, Luis Antonio
-* Encuestadores: Ramos Marcelo, Katherine Gume
-* Desarrollador de Base de Datos: Montero Echevarria, Rubby Sahory
-* DIRECTOR DE LA INSTITUCIÓN: Icaza Escobedo, Arjuna Alejandro
+* Representante del Grupo:  
+* Investigador Responsable:  
+* Programador: 
+* Encuestadores:  
+* Tutor encargado del proyecto:  
+* DIRECTOR DE LA INSTITUCIÓN:
 
 #### 1.6.3 Software
 Los programas o software a usar en este proyecto son los siguientes:  
@@ -134,7 +132,7 @@ CU9|SOLICITUD DE RESERVA DE CITA|Recepcionista visualiza las solicitudes de cita
 
 #### 3.1.5 MODELO DE CASOS DE USO
 
-![IMAGE](https://github.com/lhuamanin1/Proyecto-CLINICA-VETERINARIA-/blob/main/DGCU.png)
+![DIAGRAMA GENERAL DE CASOS DE USO](DGCU.png)
 
 #### 3.1.6 PLANTILLAS DE CASOS DE USO
 Código: CU1	|Caso de Uso:  LOGIN
@@ -217,3 +215,12 @@ PRECONDICIONES:|	Haberse cumplido el Caso de uso: LOGIN
 EVENTOS DE FLUJO BASICO:|	1.	Presionar botón visualizar detalle2.Presionar botón menú principal
 FLUJOS ALTERNATIVOS:|	        ninguno
 POST CONDICIONES:|	Recepcionista visualiza los detalles de la solicitud de Cita.
+
+
+
+
+
+
+
+
+
