@@ -3,12 +3,12 @@
 
 INTEGRANTES:| PORCENTAJE DE TRABAJO
 ---|---
-Escobedo Salazar, Juan Carlos|100%
-Esquivel Quinquin, Imanol |100%
-Huamani Neyra, Luis Antonio|100%
-Ramos Marcelo, Katherine Gume |100%
-Montero Echevarria, Rubby Sahory |100%
-Obregón Moran, Max Smiht |100%
+Escobedo Salazar, Juan Carlos |100%
+Esquivel Quinquin, Imanol (Orcid: 0000-0001-5555-5685) |100%
+Huamani Neyra, Luis Antonio (Orcid: 0000-0002-2183-4528)|100%
+Ramos Marcelo, Katherine Gume (Orcid: 0000-0002-8499-2291)) |100%
+Montero Echevarria, Rubby Sahory (Orcid: 0000-0002-4420-0413) |100%
+Obregón Moran, Max Smiht (Orcid: 0000-0001-9226-5388)|100%
 
 ## INTRODUCCIÓN:
 En el siguiente informe podra encontrar toda la informacion recopilada por el equipo de trabajo para poder desarrollar el proyecto actual, el cual lleva por nombre **Página WEB para Clínica Veterinaria Icaza**.
