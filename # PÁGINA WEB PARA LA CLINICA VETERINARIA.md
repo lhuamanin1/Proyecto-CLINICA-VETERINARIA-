@@ -4,10 +4,10 @@
 INTEGRANTES:| PORCENTAJE DE TRABAJO
 ---|---
 Esquivel Quinquin Imanol|20%
-Huamani Neyra Luis Antonio|20%
-Ramos Marcelo Katherine Gume|20%
-Montero Echevarria Rubby Sahory|20%
-Obregon Moran Max Smiht|20%
+Huamani Neyra Luis Antonio|100%
+Ramos Marcelo Katherine Gume|100%
+Montero Echevarria Rubby Sahory|80%
+Obregon Moran Max Smiht|100%
 
 ## INTRODUCCIÓN:
 En el siguiente informe podra encontrar toda la informacion recopilada por el equipo de trabajo para poder desarrollar el proyecto actual, el cual lleva por nombre **Página WEB para Clínica Veterinaria Icaza**.
@@ -215,6 +215,93 @@ PRECONDICIONES:|	Haberse cumplido el Caso de uso: LOGIN
 EVENTOS DE FLUJO BASICO:|	1.	Presionar botón visualizar detalle2.Presionar botón menú principal
 FLUJOS ALTERNATIVOS:|	        ninguno
 POST CONDICIONES:|	Recepcionista visualiza los detalles de la solicitud de Cita.
+
+
+
+
+
+3.2.2. Diagramas de Secuencia y Colaboración de Análisis
+
+3.2.1. Diagramas de Colaboración de Reservar Cita 
+
+
+
+
+
+3.2.2. Diagramas de Colaboración Usuario Login 
+
+
+
+3.2.3. Diagramas de Colaboración Registrar Mascota
+
+
+
+3.2.4. Diagramas de Colaboración de Costo de Servicio
+
+
+
+
+3.2.4. Diagramas de Colaboración Contac Veterinaria 
+
+
+
+3.2.5. Diagrama de Colaboración Registro Tipo de Baño Mascota  
+
+
+
+
+
+
+
+
+3.2.3. Lista de Clases de Interfaz
+
+
+ 
+
+3.2.1.2. Lista de Clases de Control 
+
+
+
+
+
+
+
+
+
+
+
+
+3.2.4. Lista de Clases de Entidades 
+
+
+
+3.2.5. Modelo lógico de clases
+
+
+
+
+3.3 DISEÑO ORIENTADO A OBJETOS:
+
+3.3.1. Modelo físico
+3.3.1.1. Creación de Esquemas y tablas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
