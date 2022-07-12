@@ -222,4 +222,14 @@ POST CONDICIONES:|	Recepcionista visualiza los detalles de la solicitud de Cita.
 ![image](https://user-images.githubusercontent.com/103545525/178612267-74d1ba99-d3bb-4fa1-9a32-864776396e0c.png)
 ##### 3.2.2. Diagramas de Colaboración Usuario Login 
 ![image](https://user-images.githubusercontent.com/103545525/178613050-be640a3c-4391-4092-a167-b1f44362465b.png)
+##### 3.2.3. Diagramas de Colaboración Registrar Mascota
+![image](https://user-images.githubusercontent.com/99044143/178613612-350de441-3f42-46ba-be37-4b852e737d4d.png)
+##### 3.2.4. Diagramas de Colaboración de Costo de Servicio
+![image](https://user-images.githubusercontent.com/99044143/178613670-cb2988f4-5b93-4b8e-bb48-9a1de28ab730.png)
+##### 3.2.5. Diagramas de Colaboración Contac Veterinaria 
+![image](https://user-images.githubusercontent.com/99044143/178613706-c92b77ac-ffff-465c-a63e-d835c54a933d.png)
+##### 3.2.6. Diagrama de Colaboración Registro Tipo de Baño Mascota  
+![image](https://user-images.githubusercontent.com/99044143/178613772-64246525-82b6-4c67-b895-1189f43d7b66.png)
+
+
 
