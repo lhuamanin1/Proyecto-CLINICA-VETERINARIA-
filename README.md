@@ -3,9 +3,8 @@
 
 INTEGRANTES:| PORCENTAJE DE TRABAJO
 ---|---
-Escobedo Salazar, Juan Carlos |0%
 Esquivel Quinquin, Imanol (Orcid: 0000-0001-5555-5685) |100%
-Huamani Neyra, Luis Antonio (Orcid: 0000-0002-2183-4528)|0%
+Huamani Neyra, Luis Antonio (Orcid: 0000-0002-2183-4528)|100%
 Ramos Marcelo, Katherine Gume (Orcid: 0000-0002-8499-2291)) |100%
 Montero Echevarria, Rubby Sahory (Orcid: 0000-0002-4420-0413) |100%
 Obregón Moran, Max Smiht (Orcid: 0000-0001-9226-5388)|100%
