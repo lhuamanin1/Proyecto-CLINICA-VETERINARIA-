@@ -220,3 +220,4 @@ POST CONDICIONES:|	Recepcionista visualiza los detalles de la solicitud de Cita.
 
 #### 3.2.2. Diagramas de Secuencia y Colaboración de Análisis
 ##### 3.2.1. Diagramas de Colaboración de Reservar Cita 
+![image](https://user-images.githubusercontent.com/103545525/178612267-74d1ba99-d3bb-4fa1-9a32-864776396e0c.png)
