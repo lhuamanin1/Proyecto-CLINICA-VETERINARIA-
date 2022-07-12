@@ -233,3 +233,36 @@ POST CONDICIONES:|	Recepcionista visualiza los detalles de la solicitud de Cita.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 3.3 DISEÑO ORIENTADO A OBJETOS:
+#### 3.3.1. Modelo físico
+##### 3.3.1.1. Creación de Esquemas y tablas
+![image](https://user-images.githubusercontent.com/103545525/178614422-8fc1b069-3036-4725-a3b1-2be47fa4e47a.png)
+
+
