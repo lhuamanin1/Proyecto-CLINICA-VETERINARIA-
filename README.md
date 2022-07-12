@@ -218,5 +218,5 @@ EVENTOS DE FLUJO BASICO:|	1.	Presionar botón visualizar detalle2.Presionar bot�
 FLUJOS ALTERNATIVOS:|	        ninguno
 POST CONDICIONES:|	Recepcionista visualiza los detalles de la solicitud de Cita.
 
-###3.2.2. Diagramas de Secuencia y Colaboración de Análisis
-3.2.1. Diagramas de Colaboración de Reservar Cita 
+#### 3.2.2. Diagramas de Secuencia y Colaboración de Análisis
+##### 3.2.1. Diagramas de Colaboración de Reservar Cita 
