@@ -217,7 +217,7 @@ EVENTOS DE FLUJO BASICO:|	1.	Presionar botón visualizar detalle2.Presionar bot�
 FLUJOS ALTERNATIVOS:|	        ninguno
 POST CONDICIONES:|	Recepcionista visualiza los detalles de la solicitud de Cita.
 
-#### 3.2.2. Diagramas de Secuencia y Colaboración de Análisis
+#### 3.2.1.2. Diagramas de Secuencia y Colaboración de Análisis
 ##### 3.2.1. Diagramas de Colaboración de Reservar Cita 
 ![image](https://user-images.githubusercontent.com/103545525/178612267-74d1ba99-d3bb-4fa1-9a32-864776396e0c.png)
 ##### 3.2.2. Diagramas de Colaboración Usuario Login 
@@ -230,35 +230,15 @@ POST CONDICIONES:|	Recepcionista visualiza los detalles de la solicitud de Cita.
 ![image](https://user-images.githubusercontent.com/99044143/178613706-c92b77ac-ffff-465c-a63e-d835c54a933d.png)
 ##### 3.2.6. Diagrama de Colaboración Registro Tipo de Baño Mascota  
 ![image](https://user-images.githubusercontent.com/99044143/178613772-64246525-82b6-4c67-b895-1189f43d7b66.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/103545525/178615803-404e6d6d-f5e7-4f5f-9f0b-731589e199f1.png)
+#### 3.2.1.3. Lista de Clases de Interfaz
+![image](https://user-images.githubusercontent.com/103545525/178615993-2149423a-9e3a-47d0-9d1b-399472d0b5f3.png)
+#### 3.2.1.4. Lista de Clases de Control 
+![image](https://user-images.githubusercontent.com/103545525/178616333-d8ff7846-f6d9-4327-b116-2ecb304f1c3a.png)
+#### 3.2.1.4. Lista de Clases de Entidades 
+![image](https://user-images.githubusercontent.com/103545525/178616383-e73a0def-ed73-4494-920a-fd31f5812a25.png)
+#### 3.2.1.5. Modelo lógico de clases
+![image](https://user-images.githubusercontent.com/103545525/178616429-12780a08-05a8-488f-839a-446a61ad39f0.png)
 
 ### 3.3 DISEÑO ORIENTADO A OBJETOS:
 #### 3.3.1. Modelo físico
