@@ -245,4 +245,15 @@ POST CONDICIONES:|	Recepcionista visualiza los detalles de la solicitud de Cita.
 ##### 3.3.1.1. Creación de Esquemas y tablas
 ![image](https://user-images.githubusercontent.com/103545525/178614422-8fc1b069-3036-4725-a3b1-2be47fa4e47a.png)
 
+# ANEXOS:
+## Página principal:
+![21d6d70e-26d8-4bc4-a660-07205779d073](https://user-images.githubusercontent.com/103545525/178622633-5589fc50-7db7-4827-b18b-7810918e8460.jpg)
+![fb79bc7b-f5fa-482b-82f3-15617bd332b4](https://user-images.githubusercontent.com/103545525/178622746-78789164-8b02-470a-a102-ab6dfa224376.jpg)
+
+![47a04c63-f5fd-46c2-8bac-1580237884f8](https://user-images.githubusercontent.com/103545525/178622759-bc9d9d94-5d31-44a0-80e4-926295102bf2.jpg)
+![ae039a4e-0158-425f-8396-5d1f983b266c](https://user-images.githubusercontent.com/103545525/178622769-37ba7381-fa5c-4bb6-b20d-396b88f1be6f.jpg)
+## Inicio de sesión:
+![26fa37cc-2489-45b2-bb02-584e228f1ac5](https://user-images.githubusercontent.com/103545525/178622776-39e0f5d9-222a-42bd-aa1c-60f65fe99f2e.jpg)
+## Formulario de registro de citas:
+![ce18716c-a3bf-42e9-a664-67f7912e5589](https://user-images.githubusercontent.com/103545525/178622782-b60c9337-2157-42e0-8298-61e6fef5b3de.jpg)
 
