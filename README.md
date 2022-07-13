@@ -7,7 +7,7 @@ Esquivel Quinquin, Imanol (Orcid: 0000-0001-5555-5685) |10%
 Huamani Neyra, Luis Antonio (Orcid: 0000-0002-2183-4528)|10%
 Ramos Marcelo, Katherine Gume (Orcid: 0000-0002-8499-2291)) |100%
 Montero Echevarria, Rubby Sahory (Orcid: 0000-0002-4420-0413) |100%
-Obregón Moran, Max Smiht (Orcid: 0000-0001-9226-5388)|10%
+Obregón Moran, Max Smiht (Orcid: 0000-0001-9226-5388)|90%
 
 ## INTRODUCCIÓN:
 En el siguiente informe podra encontrar toda la informacion recopilada por el equipo de trabajo para poder desarrollar el proyecto actual, el cual lleva por nombre **Página WEB para Clínica Veterinaria Icaza**.
