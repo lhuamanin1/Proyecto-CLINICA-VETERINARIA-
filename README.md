@@ -256,4 +256,9 @@ POST CONDICIONES:|	Recepcionista visualiza los detalles de la solicitud de Cita.
 ![26fa37cc-2489-45b2-bb02-584e228f1ac5](https://user-images.githubusercontent.com/103545525/178622776-39e0f5d9-222a-42bd-aa1c-60f65fe99f2e.jpg)
 ## Formulario de registro de citas:
 ![ce18716c-a3bf-42e9-a664-67f7912e5589](https://user-images.githubusercontent.com/103545525/178622782-b60c9337-2157-42e0-8298-61e6fef5b3de.jpg)
+## Menú principal:
+
+![3d778a69-7279-4ba3-a8c5-a45059f90054](https://user-images.githubusercontent.com/103545525/178623026-38171765-638e-4a6a-bffa-fc0007309a9e.jpg)
+## Menú lateral:
+![951e611b-6b76-447c-9f92-a1c346b161ae](https://user-images.githubusercontent.com/103545525/178623060-856d5d93-f8fb-431c-a954-035df3b5a3f2.jpg)
 
